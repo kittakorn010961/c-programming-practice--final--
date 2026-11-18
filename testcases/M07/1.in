@@ -1,0 +1,10 @@
+3
+101 Clean_Code 2008 1
+102 The_C_Programming_Language 1988 2
+103 Algorithms 2011 0
+5
+FIND Algorithms
+BORROW 101
+BORROW 101
+RETURN 101
+FIND Python
